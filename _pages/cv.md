@@ -11,21 +11,14 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D., Neuroscience, University of California, Berkeley, 2015-2022
+* B.S., Psychology, University of Texas at Austin, 2007-2011
+* B.A., Plan II, University of Texas at Austin, 2007-2011
+  * Plan II is an interdisciplinary humanities program.
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Data Scientist, Tactogen, 2020-2023
   
 Skills
 ======
