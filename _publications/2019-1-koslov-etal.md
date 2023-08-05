@@ -1,7 +1,7 @@
 ---
 title: "Cognitive Flexibility Improves Memory for Delayed Intentions"
 collection: publications
-permalink: /publication/021-koslov-etal-2019
+permalink: /publication/2019-1-koslov-etal
 excerpt: 'How do we remember to remember? This paper explores different strategies.'
 date: 2019-10-10
 venue: 'eNeuro'
