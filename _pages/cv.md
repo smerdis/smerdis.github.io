@@ -18,6 +18,9 @@ Education
 Work experience
 ======
 * Data Scientist, Tactogen, 2020-2023
+* Graduate Research Assistant, Silver Lab, 2016-2022
+* Research Assistant, Lewis-Peacock Lab, 2013-2015
+* Software Developer, ETSZONE, 2005-2013
   
 Publications
 ======
