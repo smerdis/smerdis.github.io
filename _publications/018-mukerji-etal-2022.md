@@ -1,7 +1,7 @@
 ---
 title: "Visual cortical γ−aminobutyric acid and perceptual suppression in amblyopia"
 collection: publications
-permalink: /publication/2022-1-mukerji-et-al
+permalink: /publication/018-mukerji-etal-2022
 excerpt: 'What is the relationship between visual cortical GABA and perceptual suppression?'
 date: 2022-09-02
 venue: 'Frontiers in Human Neuroscience'
