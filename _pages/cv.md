@@ -17,7 +17,8 @@ Education
 
 Work experience
 ======
-* Data Scientist, <a href='https://tactogen.com'>Tactogen</a>, 2020-2023
+* Data Scientist, <a href='https://tactogen.com'>Tactogen</a>, 2023-
+* Data Scientist, Magnolia Data Science, 2020-2022
 * Graduate Research Assistant, Silver Lab, 2016-2022
 * Research Assistant, Lewis-Peacock Lab, 2013-2015
 * Software Developer, <a href='https://etszone.com'>ETSZONE</a>, 2005-2013
