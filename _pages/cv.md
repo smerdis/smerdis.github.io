@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * <b>PhD, Neuroscience</b>, University of California, Berkeley, 2015-2022
-* <b>BS, Psychology, and BA, Plan II Honors</b>, University of Texas at Austin, 2007-2011
+* <b>BS, Psychology</b>, and <b>BA, Plan II Honors</b>, University of Texas at Austin, 2007-2011
   * Plan II is an interdisciplinary humanities program.
 
 Work experience
