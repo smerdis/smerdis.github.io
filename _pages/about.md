@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Arjun.
+I'm a neuroscientist and data scientist with over two decades of professional programming experience.
