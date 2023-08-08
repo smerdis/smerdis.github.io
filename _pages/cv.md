@@ -19,9 +19,10 @@ Work experience
 ======
 * Data Scientist, <a href='https://tactogen.com'>Tactogen</a>, 2023-
 * Data Scientist, Magnolia Data Science, 2020-2022
-* Graduate Research Assistant, <a href='https://argentum.ucbso.berkeley.edu/'>Silver Lab</a>, 2016-2022
+* PhD candidate, <a href='https://argentum.ucbso.berkeley.edu/'>Silver Lab</a>, 2016-2022
 * Research Assistant, <a href='https://www.lewpealab.org/'>Lewis-Peacock Lab</a>, 2013-2015
-* Software Developer, <a href='https://etszone.com'>ETSZONE</a>, 2005-2013
+* Curator, <a href='https://openfmri.org/'>OpenFMRI</a>, 2013-15
+* Software Developer, <a href='https://etszone.com'>ETSZONE</a>, 2004-2013
   
 Publications
 ======
