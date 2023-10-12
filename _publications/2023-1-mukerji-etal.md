@@ -5,7 +5,7 @@ permalink: /publication/2023-1-mukerji-etal
 excerpt: 'How do two specialized input channels of the cortical visual system relate to the plethora of cortical visual areas?'
 date: 2023-01-01
 venue: "in prep"
-citation: '<b>Mukerji A</b>, Vartak DV, and Silver MA (in prep). Functional coupling of lateral geniculate nucleus subdivisions with topographically-organized cortical areas'
+citation: '<b>Mukerji A</b>, Vartak DV, and Silver MA (in prep). Functional coupling of lateral geniculate nucleus subdivisions with topographically-organized cortical areas.'
 
 ---
 
