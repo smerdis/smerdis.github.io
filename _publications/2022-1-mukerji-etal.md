@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022-1-mukerji-etal
 excerpt: 'What is the relationship between visual cortical GABA and perceptual suppression?'
 date: 2022-09-02
-venue: 'Frontiers in Human Neuroscience'
+venue: "Frontiers in Human Neuroscience"
 paperurl: 'https://www.frontiersin.org/articles/10.3389/fnhum.2022.949395/full'
 citation: '<b>Mukerji A</b>, Byrne KN, Yang E, Levi DM, and Silver MA (2022). Visual cortical γ−aminobutyric acid and perceptual suppression in amblyopia. <i>Front. Hum. Neurosci.</i> 16:949395. doi: https://doi.org/10.3389/fnhum.2022.949395'
 
