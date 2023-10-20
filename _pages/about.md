@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm a neuroscientist and data scientist with over two decades of professional programming experience.
+I'm a neuroscientist and data scientist with over two decades of professional programming experience. I'm particularly interested in using modern computational tools to discover and develop therapeutic advances that improve human lives.
