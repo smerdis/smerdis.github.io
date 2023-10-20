@@ -27,11 +27,7 @@
     {% endif %}
 
     <h2 class="archive__item-title" itemprop="headline">
-      {% if post.link %}
-        <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
-      {% else %}
-        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
-      {% endif %}
+      {{ title }}
     </h2>
     
     {% if post.read_time %}
@@ -59,7 +55,7 @@
     {% if post.citation and post.paperurl %}
     <p class='small'>{{ post.citation }} <br />Full text link: <a href="{{ post.paperurl }}">{{ post.paperurl }}</a>
     {% elsif post.citation %}
-      <p class='small'>{{ post.citation }} 
+    <p class='small'>{{ post.citation }} 
     {% elsif post.paperurl %}
       <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a>
       {% else %}
