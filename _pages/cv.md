@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* Data Scientist, <a href='https://tactogen.com'>Tactogen</a>, 2023-
+* Data Scientist, <a href='https://tactogen.com'>Tactogen</a>, 2022-2024
 * Graduate Student Researcher, <a href='https://argentum.ucbso.berkeley.edu/'>Silver Lab @ UC Berkeley</a>, 2016-2022
 * Data Curator, <a href='https://openfmri.org/'>OpenFMRI</a>, 2013-2015
 * Research Assistant, <a href='https://www.lewpealab.org/'>Lewis-Peacock Lab</a>, 2013-2015
