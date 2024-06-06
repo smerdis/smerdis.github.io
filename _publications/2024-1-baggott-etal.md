@@ -5,7 +5,7 @@ permalink: /publication/2024-1-baggott-etal
 excerpt: ''
 date: 2024-01-01
 venue: "in prep"
-citation: 'Baggott MJ, Walther D, Luethi D, Coyle JR, Mukerji A, Liechti ME, Baumann MH (in prep). Estimating Human Doses of Stimulant-Like New Psychoactive Substances Based on In Vitro Monoamine Transporter Data.'
+citation: 'Baggott MJ, Walther D, Luethi D, Coyle JR, <b>Mukerji A</b>, Liechti ME, Baumann MH (in prep). Estimating Human Doses of Stimulant-Like New Psychoactive Substances Based on In Vitro Monoamine Transporter Data.'
 
 ---
 
